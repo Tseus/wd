@@ -77,3 +77,8 @@ ul {
     background: #34547A;
     color: white;
 }
+
+.main {
+    background: black;
+    height: 100vh;
+}
